@@ -25,7 +25,7 @@ function App() {
   return (
     <div>
     <Simpsons simpson={simpson} />
-    <button type="button" onClick={getSimpson}>Get simpson</button>
+    <button type="button" onClick={getSimpson}>Get simpsons</button>
     </div>
   );
 }
